@@ -17,5 +17,5 @@ public class Address {
 		zipPlus4 = 0000;
 	}
 	
-	
+	public Address 
 }
